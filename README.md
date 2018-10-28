@@ -1,5 +1,5 @@
 # How to create a github mosiac?
-![github mosaic](\how\mosaic-example.png)
+![github mosaic](.\how\mosaic-example.png)
 
 ## method 1: in one go
 it takes about 10 minute and you need to run the 
